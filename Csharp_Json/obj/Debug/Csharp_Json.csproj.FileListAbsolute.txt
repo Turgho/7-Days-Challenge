@@ -1,8 +1,0 @@
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\bin\Debug\Csharp_Json.exe.config
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\bin\Debug\Csharp_Json.exe
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\bin\Debug\Csharp_Json.pdb
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\obj\Debug\Csharp_Json.csproj.AssemblyReference.cache
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\obj\Debug\Csharp_Json.csproj.SuggestedBindingRedirects.cache
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\obj\Debug\Csharp_Json.csproj.CoreCompileInputs.cache
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\obj\Debug\Csharp_Json.exe
-E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Csharp_Json\obj\Debug\Csharp_Json.pdb
