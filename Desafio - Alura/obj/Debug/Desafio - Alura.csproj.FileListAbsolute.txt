@@ -1,0 +1,29 @@
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\Desafio - Alura.exe.config
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\Desafio - Alura.exe
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\Desafio - Alura.pdb
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\RestSharp.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Buffers.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Memory.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Numerics.Vectors.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Text.Encodings.Web.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Text.Json.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.ValueTuple.dll
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\RestSharp.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Buffers.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Memory.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Numerics.Vectors.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Text.Encodings.Web.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Text.Json.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\bin\Debug\System.ValueTuple.xml
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.csproj.AssemblyReference.cache
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.csproj.SuggestedBindingRedirects.cache
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.csproj.CoreCompileInputs.cache
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.csproj.CopyComplete
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.exe
+E:\Programação Estudos\C# Estudos\Estudos\Desafio Alura\Desafio - Alura\Desafio - Alura\obj\Debug\Desafio - Alura.pdb
